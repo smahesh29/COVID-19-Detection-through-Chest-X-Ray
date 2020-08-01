@@ -47,7 +47,7 @@ The architecture of a ConvNet is analogous to that of the connectivity pattern o
 
 <h2>Model File:</h2>
 
-Download the model (corona.h4) form <a href="https://drive.google.com/drive/folders/1EWWdI_Sb9OZVoi3magXk4R20GYsf2I8W?usp=sharing">here</a> and keep it in same folder where corona.py present.
+Download the model (corona.h5) form <a href="https://drive.google.com/drive/folders/1EWWdI_Sb9OZVoi3magXk4R20GYsf2I8W?usp=sharing">here</a> and keep it in same folder where corona.py present.
 
 <h2>Running Script:</h2>
 
