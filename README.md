@@ -73,5 +73,6 @@ Use Command:
 
 <h2>Description Video:</h2>
 
+[![Watch the video](https://img.youtube.com/vi/Q8OR04wBJJs/0.jpg)](https://youtu.be/Q8OR04wBJJs)
 
 <h3>Buy the Project from <a href = "https://pythonista29.stores.instamojo.com/product/95274/detecting-covid-19-through-human-chest-x-ray-images/"> Store</a></h3>
