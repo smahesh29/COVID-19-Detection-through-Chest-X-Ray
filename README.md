@@ -8,6 +8,12 @@ The standard COVID-19 tests are called PCR (Polymerase chain reaction) tests whi
 
 Moreover, large scale implementation of the COVID-19 tests which are extremely expensive cannot be afforded by many of the developing & underdeveloped countries hence if we can have some parallel diagnosis/testing procedures using Artificial Intelligence & Machine Learning and leveraging the historical data, it will be extremely helpful. This can also help in the process to select the ones to be tested primarily. Fast and accurate diagnostic methods are urgently needed to combat the disease.
 
+<h1>Datasets Used:</h1>
+<ol>
+    <li>COVID-19 X-ray Images : https://github.com/ieee8023/covid-chestxray-dataset</li>
+    <li>Pneumonia and Healthy Patients X-ray Images : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia</li>
+</ol>
+
 <h1>Techniques and Methodology:</h1>
 
 <h2>Proposed Model/Algorithm:</h2>
