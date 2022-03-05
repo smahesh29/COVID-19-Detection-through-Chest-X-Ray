@@ -81,4 +81,4 @@ Use Command:
 
 [![Watch the video](https://img.youtube.com/vi/Q8OR04wBJJs/0.jpg)](https://youtu.be/Q8OR04wBJJs)
 
-<h3>Buy the Project from <a href = "https://sourcecodetrader.com/catalogue/detecting-covid-19-through-human-chest-x-ray-images_5/"> here</a></h3>
+
